@@ -1,3 +1,3 @@
 # Git and GitHub Lesson
 
-Первый урок по Git
+Практика по урокам по Git и GitHub
